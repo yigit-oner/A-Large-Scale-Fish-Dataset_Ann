@@ -18,7 +18,7 @@ Kullanılan veri seti, çeşitli balık türlerine ait görüntülerin yer aldı
 Yoğun (Dense), Dropout ve Flatten katmanlarını içeren bir derin sinir ağı, kategorik çapraz entropi kaybı (categorical crossentropy loss) ve Adam optimizasyonu kullanılarak eğitilmiştir.
 
 ## Sonuçlar
-Model, test veri setinde %80 doğruluk elde etmiştir.
+Model, test veri setinde %95 doğruluk elde etmiştir.
 
 ## Kaggle Notebook
 Notebook'a Kaggle üzerinden şu https://www.kaggle.com/code/yigitoner/a-large-scale-fish-dataset-ann ulaşabilirsiniz.
